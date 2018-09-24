@@ -1,0 +1,7 @@
+------------------------------
+Name: Elder Dash [Player Position: 32352, 32226, 7]
+Comment: o Grovebeast está meio bugado, ele não anda junto com o char e quando passo o portal, ele não vem junto.
+------------------------------
+Name: Elder Dash [Player Position: 33224, 32234, 11]
+Comment: Minhas bps deram de sumir, duas vezes que aconteceu isso já
+

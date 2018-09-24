@@ -1,0 +1,3 @@
+------------------------------
+Name: Knightzinho [Player Position: 33265, 32440, 6]
+Comment: O npc Chemar não está liberado pra viajar

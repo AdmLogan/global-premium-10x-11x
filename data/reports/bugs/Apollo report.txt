@@ -1,0 +1,8 @@
+------------------------------
+Name: Apollo [Player Position: 32471, 32522, 8]
+Comment: 17:47 You see a royal axe (Atk:47, Def:25 +3).
+Imbuements: (Empty Slot, Empty Slot).
+It weighs 92.00 oz.
+This axe is only granted to a warlord of the Svargrond arena.
+
+Esse axe nao apresenta nivel pra usar, porém é visivel que nao da pra usar pq fica hitando 10~20, pela wiki é lvl 75 pra usar.

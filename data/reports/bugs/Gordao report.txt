@@ -1,0 +1,4 @@
+------------------------------
+Name: Gordao [Map position: 32906, 32846, 13] [Player Position: 32906, 32847, 13]
+Comment: Tp bugado
+
